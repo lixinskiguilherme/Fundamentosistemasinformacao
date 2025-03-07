@@ -1,2 +1,32 @@
 Glossário....
-  ubiquo
+
+Dicas para enviar dados GIT
+
+1.º Criar projeto no GitHub
+    - Criar um repositório
+    - fique atento para o .gitignore
+    - fica a dica (exiba arquivos ocultos no gerenciador de pastas)
+
+2.º Clonar o projeto na sua estação de trabalho
+    - no diretório desejado faça a clonagem
+      git clone <link>
+
+3.º Começar o projeto de programação na estação de trabalho
+    - lembre de criar as pastas e os arquivos dentro do diretório 
+      clonado que foi criado no seu computador
+
+--------
+
+PUSH -> Enviar
+   
+    git add.
+    git  comit-m "mensagem do que foi feito"
+    git push orgin master
+
+--------
+
+PULL -> Buscar
+
+    usar esse recurso sempre que começar a trabalhar no projeto
+    1.º ir no diretório do projeto clonado e salvo na maquina
+    2.º digitar: git pull orgin master

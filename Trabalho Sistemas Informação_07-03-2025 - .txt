@@ -1,0 +1,18 @@
+Disciplina de Fundamentos de Sistemas de Informação
+   1) Atividade:
+        Entrega> dia 14/03 às 18 hs
+        Forma de Entrega >
+             E-mail para alexz@ufn.edu.br
+             Assunto: Trabalho de fundamentos de Sistemas de Informação
+             Conteúdo: link do repositório pessoal (GitHub) da atividade
+
+
+        Produto de aprendizagem:
+             a) Pesquisar sobre 
+                  -> Sistemas de Informação (o que é e para que servem);
+                  -> Categorias de Sistemas de Informação (exemplos); 
+                  -> Integração de Sistemas;
+
+             b) A partir da pesquisa construir um mapa mental do que foi lido; 
+                  Opção a) um mapa mental do que foi lido
+                  Opção b) incrementar o glossário

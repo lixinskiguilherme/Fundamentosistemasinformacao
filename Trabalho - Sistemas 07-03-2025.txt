@@ -1,0 +1,60 @@
+FUNDAMENTOS SISTEMAS DE INFORMAÇÃO
+
+## SISTEMA - O QUE É?
+        É um sistema eletrônico que tem por objetivo auxiliar na organização e no gerenciamento de dados de determinado cidadão ou empresa.
+        Geralmente são utilizados para realizar a coleta de dados dos mais distintos departamentos, armazendo, processando e gerando dados e informações
+        que poderão ser utilizados para melhorar o processo gerencial de um negócio.
+
+## SISTEMA - PARA QUE SERVE?
+        Servem para controlar dados, operações, informações com o objetivo de diagnosticar e resolver eventuais problemas. 
+        Em resumo, servem para resolver os mais diversos problemas.
+
+## CATEGORIAS DE SISTEMAS DE INFORMAÇÃO
+        Os sistemas de informação podem ser classificados como sistemas formais e informais. Os sistemas formais incluem processos pré-definidos, entrada e 
+        saídas padronizadas e definições fixas. Já os informais, assumem diversas formas, que vão desde uma rede de comunicação informal em uma empresa, um 
+        grupo de amigos que troca correspondência, dentre outros.
+
+	Segundo O' Brien, 2000, podemos dividir os sistemas de informação em quadro grupos:
+        -> Sistemas de Informações Transacionais
+        -> Sistemas de Informações Gerenciais
+        -> Sistemas de Apoio a Decisão
+        -> Sistemas de Informações Executivas
+
+	Como exemplos de sistemas de informações podemos citar:
+        -> Sistema de informações Transacionais
+               	-> Sistema de contas a pagar de uma empresa;
+		-> Sistema TEF presente nas frentes de caixa dos supermercados;
+		-> Sistema de emissão de notas fiscais;
+		-> Sistema de Cobrança;
+
+	-> Sistemas de Informações Gerenciais
+		-> ERP (Enterprise Resource Planning;
+		-> CRM (Customer Relationship Management);
+		-> SCM (Supply ChainManagement);
+
+	-> Sistemas de Apoio a Decisão
+		-> Planilhas e gráficos eletrônicos;
+		-> Sistemas de análise estatística;
+		-> Programas de previsão mercadológica;
+		-> Ferramentas de Businness Intelligence (BI);
+
+## INTEGRAÇÃO ENTRE SISTEMAS
+	Nada mais é do que a integração de dados de sistemas adversos e um único, para que a empresa funcione de forma
+  	integrada. Na contabilidade, costumamos dizer que a contabilidade funciona como a espinha dorsal de uma empresa,
+	pois recebe informações dos mais diversos setores da empresa, a qual armazena, processa, qualifica e quantifica
+	as informações aos seus gestores, podendo eles analisar onde a empresa precisa melhorar para aumentar seus 
+	resultados.
+
+	A integração reduz o tempo gasto nas operações, melhora o entendimento dos dados, permite que as equipes proponham
+	estratégias mais assertivas, automatização de tarefas, redução de erros e aumento da eficiência.
+
+	Toda esta integração pode ocorrer através da utilização de APIs. 
+
+	Aqui posso dar um exemplo relacionado a área contábil. A realização de uma venda. O cliente ao emitir a nota fiscal, utilizando
+	um sistema integrado, ao efetuar a venda, ele já baixa automaticamente o produto do estoque, gera o financeiro, contas a receber,
+	emite a nota fiscal, gerando o lançamento contábil, tudo isso em apenas um clique. No passado, emitia a nota fiscal manual, 	posteriormente enviava ao estoque para baixa do produto, depois ao financeiro para registrar a venda, tudo manual e de certa forma
+	morosa.
+
+	Hoje, um sistema com integração, gera informações rápidas e assertivas ao gestor do negócio. Consegue saber o que vendeu, quanto recebeu
+	o que tem de comprar, .... em frações de segundos.
+	

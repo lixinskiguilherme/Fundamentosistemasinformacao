@@ -1,0 +1,29 @@
+Modelo de negocio em Sistemas de Informação
+        -> Software as a Service - SaaS
+        -> Plataform as a Service - PaaS
+        -> Infrastructure as a Service - IaaS
+
+
+Modelo de negocio em Sistemas de Informação
+
+Um modelo de negócio em sistemas de informação é uma representação dos componentes de um sistema de informação
+que são utilizados para gerar valor e apoiar a operação, gestão e estratégias de uma organização. Este modelo
+define como a empres usa seus recursos tecnológicos, dados e processos digitais para entregar produtos ou 
+serviços aos clientes, criar vantagens competitivas, otimizar operações internas e, claro, gerar lucro.
+
+Os modelos de negócio prossuem alguns componentes principais para poder rodar como:
+
+    -> Tecnologia e Infraestrutura
+    -> Fluxos de Informação
+    -> Proposta de valor
+    -> Modelo de Receita
+    -> Vantagem competitivas
+    -> Cadeia de Suprimentos e operações
+    -> Segurança e Privacidade
+
+Empresas como a Amazon, Netflix e Uber utilizam sistemas de informação avançados para otimizar seus serviços e 
+transformar a experiência do cliente.
+
+Essencialmente, o modelo de negócios em Sistemas de Informação integra o uso de tecnologia com a estratégia
+da empresa, buscando alinhar os recursos digitais aos objetivos de negócio, garantindo eficiência e 
+competitividade.

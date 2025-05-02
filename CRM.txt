@@ -1,0 +1,28 @@
+CRM -> Gestão de Relacionamento com o Cliente
+
+Vem do inglês Customer Relationship Management.
+
+É um conjunto de práticas, estratégias e tecnologias que ajudam empresas a gerir e aprofundar
+as relações com seus clientes, seja para aumentar a satisfação, melhorar a fidelização, ou mesmo
+para otimizar as vendas e o marketing.
+
+Em resumo, o CRM:
+-> Centraliza Informações
+-> Melhora a Comunicação
+-> Personaliza do Atendimento
+-> Aumenta Vendas
+-> Melhora a Satisfação do Cliente
+
+O CRM pode ser IMPLEMENTADO através de um software ou sistema de gestão que vai:
+-> Armazenar dados (coleciona informações sobre clientes, dados pessoais, históricos, ...);
+-> Integra informações (junta dados de diversas áreas da empresa);
+-> Automatiza tarefas (Automativa processos como registro de Leads, envio de e-mails, ...);
+-> Gerencia do fluxo de trabalho (permite gerenciar etapas do ciclo de vendas desde a captação até o pós venda);
+-> Oferece relatórios e análises;
+
+Principais Benefícios
+-> Melhora a experiência do cliente (atendimento personalizado e eficiente);
+-> Aumento das vendas (identifica oportunidades e fechamento de mais negócios);
+-> Redução de custos (Otimização de processos e redução de despercícios);
+-> Melhora na produtividade (automatização de tarefas e otimização do tempo das equipes);
+-> Tomada de decisões mais assertivas (análise de dados e informações sobre o comportamentos dos clientes);
